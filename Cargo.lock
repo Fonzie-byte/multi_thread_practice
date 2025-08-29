@@ -3,5 +3,9 @@
 version = 4
 
 [[package]]
+name = "parallelised_foo_bar"
+version = "0.1.0"
+
+[[package]]
 name = "sequential_foo_bar"
 version = "0.1.0"
